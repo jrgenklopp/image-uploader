@@ -1,0 +1,25 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "can upload images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shekhar",
+  "license": "ISC",
+  "dependencies": {
+    "MD5": "^1.3.0",
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "formidable": "^1.2.2",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0"
+  }
+}
